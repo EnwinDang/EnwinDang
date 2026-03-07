@@ -1,8 +1,7 @@
-# Hi there 👋
+# Hi, I'm Enwin <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
 
-Applied Computer Science student at Erasmus University College Brussels.
+Applied Computer Science student at ErasmusHogeschool Brussel
 
-Currently exploring robotics and its possibilities
 ---
 
 ## 🔭 Current Focus
@@ -18,16 +17,6 @@ Currently exploring robotics and its possibilities
 - 📈 Quantitative finance  
 - 🧮 Statistical modelling   
 - ⚙️ Algorithmic trading systems
-
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
