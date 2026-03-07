@@ -4,7 +4,7 @@ I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel spe
 
 ---
 
-| ## Current Focus | ## Exploring Next |
+|  Current Focus   |  Exploring Next |
 |------------------|-------------------|
 |  Robotics and computer vision |  Quantitative finance |
 |  Perception systems and spatial understanding |  Statistical modelling |
