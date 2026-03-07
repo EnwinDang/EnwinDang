@@ -12,4 +12,4 @@ I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel spe
 
 ---
 ## Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nguyen-dang-873a67356/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?)](https://www.linkedin.com/in/nguyen-dang-873a67356/)
