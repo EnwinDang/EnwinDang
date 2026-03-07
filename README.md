@@ -15,7 +15,7 @@ I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel spe
 
 ##  GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwinDang&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwinDang&layout=compact)
 
 ---
 ## Let's connect!
