@@ -1,33 +1,22 @@
-# Hi, I'm Enwin <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
+# Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
 
-Applied Computer Science student at ErasmusHogeschool Brussel
-
----
-
-## 🔭 Current Focus
-
-- 🤖 Robotics and computer vision  
-- 🧠 Perception systems and spatial understanding  
-- 🛠 Building practical robotics systems with Python and Linux
+I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel specializing in Robotics
 
 ---
 
-## 🌱 Exploring Next
+| ## Current Focus | ## Exploring Next |
+|------------------|-------------------|
+|  Robotics and computer vision |  Quantitative finance |
+|  Perception systems and spatial understanding |  Statistical modelling |
+|  Building practical robotics systems with Python and Linux |  Algorithmic trading systems |
 
-- 📈 Quantitative finance  
-- 🧮 Statistical modelling   
-- ⚙️ Algorithmic trading systems
 
 ---
 
-## 📊 GitHub Stats
-
-![Enwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnwinDang&show_icons=true&theme=tokyonight)
+##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwinDang&layout=compact&theme=tokyonight)
 
 ---
-
-## 🐍 Contributions
-
-![Snake animation](https://github.com/EnwinDang/EnwinDang/blob/output/github-contribution-grid-snake.svg)
+## Let's connect!
+[LinkedIn](https://www.linkedin.com/in/nguyen-dang-873a67356/)
