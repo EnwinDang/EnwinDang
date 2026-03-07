@@ -2,14 +2,12 @@
 
 Applied Computer Science student at Erasmus University College Brussels.
 
-Exploring how machines perceive and interact with the world through robotics and intelligent systems.
-
+Currently exploring robotics and its possibilities
 ---
 
 ## 🔭 Current Focus
 
 - 🤖 Robotics and computer vision  
-- 📍 Robot localisation using cameras and ArUco markers  
 - 🧠 Perception systems and spatial understanding  
 - 🛠 Building practical robotics systems with Python and Linux
 
@@ -18,8 +16,7 @@ Exploring how machines perceive and interact with the world through robotics and
 ## 🌱 Exploring Next
 
 - 📈 Quantitative finance  
-- 🧮 Statistical modelling  
-- 🔬 Monte Carlo simulations  
+- 🧮 Statistical modelling   
 - ⚙️ Algorithmic trading systems
 
 ---
