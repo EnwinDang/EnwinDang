@@ -4,17 +4,12 @@ I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel spe
 
 ---
 
-|  Current Focus   |  Exploring Next |
+|  Current Focus   |  Exploring Next   |
 |------------------|-------------------|
-|  Robotics and computer vision |  Quantitative finance |
+|  Robotics and computer vision                 |  Quantitative finance |
 |  Perception systems and spatial understanding |  Statistical modelling |
 |  Building practical robotics systems with Python and Linux |  Algorithmic trading systems |
 
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwinDang&layout=compact)
-
 ---
 ## Let's connect!
-[LinkedIn](https://www.linkedin.com/in/nguyen-dang-873a67356/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nguyen-dang-873a67356/)
