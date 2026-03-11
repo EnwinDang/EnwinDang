@@ -1,4 +1,4 @@
-## Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
+### Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
 
 I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel specializing in Robotics
 
@@ -11,5 +11,5 @@ I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel spe
 |  Building practical robotics systems with Python and Linux |  Algorithmic trading systems |
 
 ---
-## Let's connect!
+### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?)](https://www.linkedin.com/in/nguyen-dang-873a67356/)
