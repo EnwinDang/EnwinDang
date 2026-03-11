@@ -1,4 +1,4 @@
-# Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
+## Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
 
 I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel specializing in Robotics
 
