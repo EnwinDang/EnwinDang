@@ -1,6 +1,6 @@
 ### Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.gif" width="35">
 
-I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel specializing in Robotics
+I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel specializing in Robotics and Cybersecurity
 
 ---
 
@@ -8,7 +8,7 @@ I'm Nguyen, an Applied Computer Science student at ErasmusHogeschool Brussel spe
 |------------------|-------------------|
 |  Robotics and computer vision                 |  Quantitative finance |
 |  Perception systems and spatial understanding |  Statistical modelling |
-|  Building practical robotics systems with Python and Linux |  Algorithmic trading systems |
+|  Pentesting                                   |  Algorithmic trading systems |
 
 ---
 ### Let's connect!
